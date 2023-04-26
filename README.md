@@ -1,11 +1,11 @@
 # Award Service
 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=coderdojo-ennis_45483623&metric=bugs)](https://sonarcloud.io/summary/new_code?id=coderdojo-ennis_45483623)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=coderdojo-ennis_45483623&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=coderdojo-ennis_45483623)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=coderdojo-ennis_45483623&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=coderdojo-ennis_45483623)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=coderdojo-ennis_45483623&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=coderdojo-ennis_45483623)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=coderdojo-ennis_45483623&metric=coverage)](https://sonarcloud.io/summary/new_code?id=coderdojo-ennis_45483623)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=coderdojo-ennis_45483623&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=coderdojo-ennis_45483623)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=45483623&metric=bugs)](https://sonarcloud.io/summary/new_code?id=45483623)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=45483623&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=45483623)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=45483623&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=45483623)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=45483623&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=45483623)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=45483623&metric=coverage)](https://sonarcloud.io/summary/new_code?id=45483623)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=45483623&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=45483623)
 
 ## Getting started
 
